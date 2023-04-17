@@ -1,0 +1,15 @@
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\bin\Debug\net6.0\ClubeDaLeitura.exe
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\bin\Debug\net6.0\ClubeDaLeitura.deps.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\bin\Debug\net6.0\ClubeDaLeitura.runtimeconfig.json
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\bin\Debug\net6.0\ClubeDaLeitura.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\bin\Debug\net6.0\ClubeDaLeitura.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.csproj.AssemblyReference.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.AssemblyInfoInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.AssemblyInfo.cs
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.csproj.CoreCompileInputs.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\obj\Debug\net6.0\refint\ClubeDaLeitura.dll
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.pdb
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\obj\Debug\net6.0\ClubeDaLeitura.genruntimeconfig.cache
+C:\Users\ruans\OneDrive\Área de Trabalho\AcadP\ClubeDaLeitura\obj\Debug\net6.0\ref\ClubeDaLeitura.dll
